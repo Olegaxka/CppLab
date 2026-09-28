@@ -5,6 +5,6 @@ project(CppLab)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(value_categories
-    advanced_cpp/01_value_categories/main.cpp
+add_executable(copy_move
+    advanced_cpp/02_copy_move/main.cpp
 )
